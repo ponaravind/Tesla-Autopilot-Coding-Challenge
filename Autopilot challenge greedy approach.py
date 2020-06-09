@@ -74,14 +74,3 @@ for charger in arr_charger:
 printt.append(dest)
     
 print(*printt, sep=', ')
-
-        
-        
-    
-
-
-
-
-        
-    
-
